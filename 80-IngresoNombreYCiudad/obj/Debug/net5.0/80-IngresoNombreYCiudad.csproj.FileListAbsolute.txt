@@ -1,0 +1,15 @@
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\80-IngresoNombreYCiudad\bin\Debug\net5.0\80-IngresoNombreYCiudad.exe
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\80-IngresoNombreYCiudad\bin\Debug\net5.0\80-IngresoNombreYCiudad.deps.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\80-IngresoNombreYCiudad\bin\Debug\net5.0\80-IngresoNombreYCiudad.runtimeconfig.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\80-IngresoNombreYCiudad\bin\Debug\net5.0\80-IngresoNombreYCiudad.runtimeconfig.dev.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\80-IngresoNombreYCiudad\bin\Debug\net5.0\80-IngresoNombreYCiudad.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\80-IngresoNombreYCiudad\bin\Debug\net5.0\ref\80-IngresoNombreYCiudad.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\80-IngresoNombreYCiudad\bin\Debug\net5.0\80-IngresoNombreYCiudad.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\80-IngresoNombreYCiudad\obj\Debug\net5.0\80-IngresoNombreYCiudad.GeneratedMSBuildEditorConfig.editorconfig
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\80-IngresoNombreYCiudad\obj\Debug\net5.0\80-IngresoNombreYCiudad.AssemblyInfoInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\80-IngresoNombreYCiudad\obj\Debug\net5.0\80-IngresoNombreYCiudad.AssemblyInfo.cs
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\80-IngresoNombreYCiudad\obj\Debug\net5.0\80-IngresoNombreYCiudad.csproj.CoreCompileInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\80-IngresoNombreYCiudad\obj\Debug\net5.0\80-IngresoNombreYCiudad.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\80-IngresoNombreYCiudad\obj\Debug\net5.0\ref\80-IngresoNombreYCiudad.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\80-IngresoNombreYCiudad\obj\Debug\net5.0\80-IngresoNombreYCiudad.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\80-IngresoNombreYCiudad\obj\Debug\net5.0\80-IngresoNombreYCiudad.genruntimeconfig.cache
